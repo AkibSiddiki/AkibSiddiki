@@ -19,12 +19,12 @@ UI/UX Design: Beyond code, I have a keen eye for design principles. I believe th
 
 Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just a skill; it's a mindset that I bring to every project.
 
-<p align="center" style="padding:100 0 100 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Image 1" height="40" display="inline-block"/>
-  <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Image 2" height="40" display="inline-block" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png?f=webp" alt="Image 3" height="40" display="inline-block" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Image 4" height="40" display="inline-block" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Image 5" height="40" display="inline-block" />
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Image 1" height="35" display="inline-block"/>
+  <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Image 2" height="35" display="inline-block" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png?f=webp" alt="Image 3" height="35" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Image 4" height="35" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Image 5" height="35" display="inline-block" />
 </p>
 
 
