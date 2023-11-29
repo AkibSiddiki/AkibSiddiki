@@ -1,6 +1,7 @@
 🚀 Hello, Developers!!!!! 
 
-I'm Akib Siddiki, a passionate self-taught 💙 Flutter App Developer on a mission to create beautiful and functional mobile applications. 👨‍💻
+I'm Akib, 
+a passionate self-taught 💙 Flutter App Developer on a mission to create beautiful and functional mobile applications. 👨‍💻
 
 🌟 About Me
 
