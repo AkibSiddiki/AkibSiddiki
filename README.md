@@ -20,8 +20,8 @@ UI/UX Design: Beyond code, I have a keen eye for design principles. I believe th
 Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just a skill; it's a mindset that I bring to every project.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1280px-Dart_programming_language_logo.svg.png" alt="Image 1" height="200"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Image 2" height="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1280px-Dart_programming_language_logo.svg.png" alt="Image 1" height="50" display="inline-block"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Image 2" height="50" display="inline-block" />
 </p>
 
 
