@@ -7,6 +7,16 @@ a passionate self-taught 💙 Flutter App Developer on a mission to create beaut
 
 I thrive on turning creative ideas into reality through the power of code. My journey in the world of app development began with a curiosity to explore the possibilities of Flutter, and I've been hooked ever since. The dynamic nature of Flutter and its ability to craft stunning cross-platform applications resonate with my love for elegant solutions.
 
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Image 1" height="35" display="inline-block"/>
+  <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Image 2" height="35" display="inline-block" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png?f=webp" alt="Image 3" height="35" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Image 4" height="35" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Image 5" height="35" display="inline-block" />
+</p>
+
+
 🔧 Skills
 
 Flutter: My playground and expertise. I'm well-versed in creating responsive and delightful user interfaces that not only look good but also provide a seamless user experience.
@@ -18,14 +28,6 @@ Firebase: Proficient in leveraging Firebase for backend services, including Fire
 UI/UX Design: Beyond code, I have a keen eye for design principles. I believe that an intuitive and visually appealing UI is as crucial as the functionality itself.
 
 Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just a skill; it's a mindset that I bring to every project.
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Image 1" height="35" display="inline-block"/>
-  <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Image 2" height="35" display="inline-block" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png?f=webp" alt="Image 3" height="35" display="inline-block" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Image 4" height="35" display="inline-block" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Image 5" height="35" display="inline-block" />
-</p>
 
 
 
