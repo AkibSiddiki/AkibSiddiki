@@ -1,3 +1,19 @@
+⚙️ Gears
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Image 1" height="30" display="inline-block"/>
+  <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Image 2" height="30" display="inline-block" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png?f=webp" alt="Image 3" height="30" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Image 4" height="30" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Image 5" height="30" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" alt="Image 1" height="30" display="inline-block"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Image 1" height="30" display="inline-block"/>
+  <img src="https://developer.android.com/static/distribute/console/images/play-console-blue.png" alt="Image 1" height="30" display="inline-block"/>
+  <img src="https://developer.apple.com/help/app-store-connect/get-started/app-store-connect-homepage/images/my_apps_sm_2x.png" alt="Image 1" height="30" display="inline-block"/>
+</p>
+
+
+
 🚀 Hello, Developers!!!!! 
 
 I'm Akib, 
@@ -29,18 +45,6 @@ Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just
 - ⚡ Fun fact: I like to cook.
 
   
-⚙️ Gears
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Image 1" height="30" display="inline-block"/>
-  <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Image 2" height="30" display="inline-block" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png?f=webp" alt="Image 3" height="30" display="inline-block" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Image 4" height="30" display="inline-block" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Image 5" height="30" display="inline-block" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" alt="Image 1" height="30" display="inline-block"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Image 1" height="30" display="inline-block"/>
-  <img src="https://developer.android.com/static/distribute/console/images/play-console-blue.png" alt="Image 1" height="30" display="inline-block"/>
-  <img src="https://developer.apple.com/help/app-store-connect/get-started/app-store-connect-homepage/images/my_apps_sm_2x.png" alt="Image 1" height="30" display="inline-block"/>
-</p>
 
 
