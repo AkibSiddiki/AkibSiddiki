@@ -20,8 +20,8 @@ UI/UX Design: Beyond code, I have a keen eye for design principles. I believe th
 Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just a skill; it's a mindset that I bring to every project.
 
 <p align="center">
-  <img src="https://github.com/AkibSiddiki/AkibSiddiki/blob/main/assets/74678844/107b9c4a-3fc0-4e20-bd48-00f3864f9852.jpg" alt="Image 1" width="200"/>
-  <img src="https://github.com/AkibSiddiki/AkibSiddiki/blob/main/assets/74678844/5c4a1e7c-dcbe-4e7e-8e2d-29d4ac206314.jpg" alt="Image 2" width="200"/>
+  <img src="https://github.com/AkibSiddiki/AkibSiddiki/blob/main/assets/74678844/107b9c4a-3fc0-4e20-bd48-00f3864f9852.png" alt="Image 1" width="200"/>
+  <img src="https://github.com/AkibSiddiki/AkibSiddiki/blob/main/assets/74678844/5c4a1e7c-dcbe-4e7e-8e2d-29d4ac206314.png" alt="Image 2" width="200"/>
 </p>
 
 
