@@ -41,7 +41,7 @@ Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png" alt="Image 5" height="25" display="inline-block" />
   <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" alt="Image 1" height="25" display="inline-block"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Image 1" height="25" display="inline-block"/>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png](https://developer.android.com/static/distribute/console/images/play-console-blue.png)https://developer.android.com/static/distribute/console/images/play-console-blue.png" alt="Image 1" height="25" display="inline-block"/>
+  <img src="https://developer.android.com/static/distribute/console/images/play-console-blue.png" alt="Image 1" height="25" display="inline-block"/>
   <img src="https://developer.apple.com/help/app-store-connect/get-started/app-store-connect-homepage/images/my_apps_sm_2x.png" alt="Image 1" height="25" display="inline-block"/>
 </p>
 
