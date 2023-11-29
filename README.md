@@ -19,6 +19,9 @@ UI/UX Design: Beyond code, I have a keen eye for design principles. I believe th
 
 Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just a skill; it's a mindset that I bring to every project.
 
+![image](https://github.com/AkibSiddiki/AkibSiddiki/assets/74678844/107b9c4a-3fc0-4e20-bd48-00f3864f9852) ![image](https://github.com/AkibSiddiki/AkibSiddiki/assets/74678844/5c4a1e7c-dcbe-4e7e-8e2d-29d4ac206314)
+
+
 
 - 🔭 I’m currently working on News App on Flutter for iOS and Android
 - 🌱 I’m currently learning Supabase
