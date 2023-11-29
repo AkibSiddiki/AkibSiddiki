@@ -22,9 +22,9 @@ Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Image 1" height="50" display="inline-block"/>
   <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Image 2" height="50" display="inline-block" />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" alt="Image 2" height="50" display="inline-block" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Image 2" height="50" display="inline-block" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Image 2" height="50" display="inline-block" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png?f=webp" alt="Image 3" height="50" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Image 4" height="50" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Image 5" height="50" display="inline-block" />
 </p>
 
 
