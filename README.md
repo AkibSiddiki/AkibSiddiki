@@ -14,7 +14,7 @@
 
 
 
-#🚀 Hello, Developers!!!!! 
+🚀 Hello, Developers!!!!! 
 
 I'm Akib, 
 a passionate self-taught 💙 Flutter App Developer on a mission to create beautiful and functional mobile applications. 👨‍💻
