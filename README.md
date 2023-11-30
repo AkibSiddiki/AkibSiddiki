@@ -1,4 +1,4 @@
-## Hello Flutter Developers
+## Hello, Flutter Developers!!!
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Image 1" height="30" display="inline-block"/>
@@ -13,8 +13,6 @@
 </p>
 
 
-
-🚀 Hello, Developers!!!!! 
 
 I'm Akib, 
 a passionate self-taught 💙 Flutter App Developer on a mission to create beautiful and functional mobile applications. 👨‍💻
