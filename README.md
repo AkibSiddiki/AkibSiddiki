@@ -38,8 +38,8 @@ Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just
 
 - 🔭 I’m currently working on News App on Flutter for iOS and Android
 - 🌱 I’m currently learning Supabase
-- 👯 I’m looking to collaborate on this making dart package 
-- 🤔 I’m looking for help with newb to learn Flutter
+- 👯 I’m looking to collaborate to make a dart package to publish. 
+- 🤔 I’m looking forward to helping new developers learn Flutter.
 - 📫 How to reach me: akib.siddiki@gmail.com, WhatsApp(+8801778974170)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to cook.
