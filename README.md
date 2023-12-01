@@ -27,7 +27,7 @@ Flutter: My playground and expertise. I'm well-versed in creating responsive and
 
 Dart: The language that powers my creations. I leverage Dart to write clean, efficient, and maintainable code.
 
-Firebase: Proficient in leveraging Firebase for backend services, including Firestore for real-time databases, Firebase Authentication for secure user management, and Cloud Functions for serverless computing.
+Firebase: Proficient in leveraging Firebase for backend services, including Firestore for real-time databases and Firebase Authentication for secure user management.
 
 UI/UX Design: Beyond code, I have a keen eye for design principles. I believe that an intuitive and visually appealing UI is as crucial as the functionality itself.
 
