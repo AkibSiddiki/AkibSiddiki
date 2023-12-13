@@ -44,7 +44,6 @@ Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just
 
 
 ![AkibSiddiki's Stats](https://github-readme-stats.vercel.app/api?username=AkibSiddiki&theme=gotham&show_icons=true&hide_border=false&count_private=true)
---
 ![AkibSiddiki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkibSiddiki&theme=gotham&hide_border=false)
 
   
