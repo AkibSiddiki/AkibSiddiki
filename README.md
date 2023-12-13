@@ -42,6 +42,9 @@ Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to cook.
 
+
+![AkibSiddiki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkibSiddiki&theme=default&hide_border=false)
+
   
 
 
