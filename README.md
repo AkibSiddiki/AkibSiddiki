@@ -43,7 +43,9 @@ Problem Solver: I enjoy tackling challenges head-on. Problem-solving is not just
 - ⚡ Fun fact: I like to cook.
 
 
-![AkibSiddiki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkibSiddiki&theme=default&hide_border=false)
+![AkibSiddiki's Stats](https://github-readme-stats.vercel.app/api?username=AkibSiddiki&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+![AkibSiddiki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkibSiddiki&theme=gotham&hide_border=false)
+![AkibSiddiki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibSiddiki&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
   
 
