@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Flutter Logo" height="30" display="inline-block" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel Logo" height="30" display="inline-block" />
-  <img src="https://pngimg.com/d/mysql_PNG23.png" alt="MySql Logo" height="30" display="inline-block" />
+  <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" alt="MySql Logo" height="30" display="inline-block" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git Icon" height="30" display="inline-block" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code Icon" height="30" display="inline-block" />
   <img src="https://developer.android.com/static/distribute/console/images/play-console-blue.png" alt="Play Console Logo" height="30" display="inline-block"/>
@@ -17,12 +17,14 @@ I thrive on turning creative ideas into reality through the power of code. My jo
 
 🔧 **Skills**
 
-- **Flutter**: My playground and expertise. I'm well-versed in creating responsive and delightful user interfaces that not only look good but also provide a seamless user experience.
-- **Dart**: The language that powers my creations. I leverage Dart to write clean, efficient, and maintainable code.
-- **Firebase**: Proficient in leveraging Firebase for backend services, including Firestore for real-time databases and Firebase Authentication for secure user management.
-- **Laravel**: Skilled in Laravel for crafting modern and secure web applications, with a focus on MVC architecture and RESTful services.
-- **UI/UX Design**: Beyond code, I have a keen eye for design principles. I believe that an intuitive and visually appealing UI is as crucial as the functionality itself.
-- **Problem Solver**: I enjoy tackling challenges head-on. Problem-solving is not just a skill; it's a mindset that I bring to every project.
+**Flutter**: My playground and expertise. I'm well-versed in creating responsive and delightful user interfaces that not only look good but also provide a seamless user experience.
+**Dart**: The language that powers my creations. I leverage Dart to write clean, efficient, and maintainable code.
+**Firebase**: Proficient in leveraging Firebase for backend services, including Firestore for real-time databases and Firebase Authentication for secure user management.
+**Laravel**: Skilled in Laravel for crafting modern and secure web applications, with a focus on MVC architecture and RESTful services.
+**UI/UX Design**: Beyond code, I have a keen eye for design principles. I believe that an intuitive and visually appealing UI is as crucial as the functionality itself.
+**Problem Solver**: I enjoy tackling challenges head-on. Problem-solving is not just a skill; it's a mindset that I bring to every project.
+
+
 
 - 🔭 I’m currently working on a News App on Flutter for iOS and Android, and a dynamic web project using Laravel.
 - 🌱 I’m currently learning vue.js
