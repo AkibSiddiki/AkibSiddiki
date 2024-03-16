@@ -26,7 +26,6 @@ I thrive on turning creative ideas into reality through the power of code. My jo
 
 
 
-- 🔭 I’m currently working on a News App on Flutter for iOS and Android, and a dynamic web project using Laravel.
 - 🌱 I’m currently learning vue.js
 - 👯 I’m looking to collaborate to make a dart package to publish.
 - 🤔 I’m looking forward to helping new developers to learn Flutter and Laravel.
