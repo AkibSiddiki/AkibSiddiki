@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,6 +9,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
+
 <body>
     <div class="portfolio-container">
         <!-- Header -->
@@ -23,7 +25,7 @@
                     <span><i class="fas fa-briefcase"></i> Full Stack Developer</span>
                     <span><i class="fas fa-envelope"></i> akib.siddiki@gmail.com</span>
                 </div>
-                
+
                 <div class="stats">
                     <div class="stat-item">Laravel</div>
                     <div class="stat-item">PHP</div>
@@ -49,60 +51,130 @@
         <!-- Navigation -->
         <div class="nav-buttons">
             <button class="nav-btn active" data-tab="me">
-                <i class="fas fa-user"></i> Me
-            </button>
-            <button class="nav-btn" data-tab="projects">
-                <i class="fas fa-code"></i> Projects
-            </button>
-            <button class="nav-btn" data-tab="skills">
-                <i class="fas fa-tools"></i> Skills
+                <i class="fas fa-user-tie"></i> Executive Summary
             </button>
             <button class="nav-btn" data-tab="experience">
-                <i class="fas fa-history"></i> Experience
+                <i class="fas fa-laptop-code"></i> Professional Experience
+            </button>
+            <button class="nav-btn" data-tab="skills">
+                <i class="fas fa-layer-group"></i> Technical Skills
+            </button>
+            <button class="nav-btn" data-tab="education">
+                <i class="fas fa-graduation-cap"></i> Education
             </button>
             <button class="nav-btn" data-tab="contact">
-                <i class="fas fa-paper-plane"></i> Contact
+                <i class="fas fa-id-card"></i> Contact & Socials
             </button>
         </div>
 
         <!-- Content Sections -->
         <div id="me" class="content-section active">
-            <p>I'm a problem solver at heart, committed to writing clean, maintainable code. Currently working at eMythMakers.com, I build complex platforms like news portals and e-commerce repositories.</p>
-        </div>
-
-        <div id="projects" class="content-section">
-            <h3>Notable Work</h3>
-            <ul>
-                <li>News Portal Systems</li>
-                <li>E-commerce Platforms</li>
-                <li>Knowledge Repositories</li>
-                <li>Custom CRM Solutions</li>
-            </ul>
-        </div>
-
-        <div id="skills" class="content-section">
-            <h3>Technical Expertise</h3>
-            <p><strong>Backend:</strong> PHP, Laravel, RESTful APIs, MySQL, Redis</p>
-            <p><strong>Frontend:</strong> JavaScript, Tailwind CSS, Bootstrap, CSS3, HTML5</p>
-            <p><strong>Cloud/Tools:</strong> Git, Firebase (FCM), S3 Bucket, Linux</p>
+            <p class="bio">
+                Dedicated Full Stack PHP/Laravel Developer with a strong background in building <strong>scalable, secure, and high-performance</strong> web applications. I specialize in crafting RESTful APIs, modern authentication mechanisms, and complex database optimizations.
+            </p>
+            <p>
+                A problem solver at heart, I am committed to writing clean, maintainable code and continuously improving system performance to deliver an exceptional user experience. I thrive in fast-paced environments and am always eager to learn and implement cutting-edge technologies.
+            </p>
+            <div class="social-links">
+                <a href="https://github.com/AkibSiddiki" target="_blank" class="social-link"><i class="fab fa-github"></i></a>
+                <a href="https://linkedin.com" target="_blank" class="social-link"><i class="fab fa-linkedin"></i></a>
+                <a href="mailto:akib.siddiki@gmail.com" class="social-link"><i class="fas fa-envelope"></i></a>
+            </div>
         </div>
 
         <div id="experience" class="content-section">
-            <h3>Professional Journey</h3>
-            <div class="job">
-                <h4>Software Engineer @ eMythMakers.com</h4>
-                <small>2023 - Present</small>
+            <div class="experience-item">
+                <div class="exp-header">
+                    <div>
+                        <div class="exp-role">Software Engineer</div>
+                        <div class="exp-company">eMythMakers.com</div>
+                    </div>
+                    <div class="exp-date">2023 - Present | Kafrul, Dhaka</div>
+                </div>
+                <div class="exp-desc">
+                    <ul>
+                        <li>Develop and maintain scalable web applications using <strong>Laravel and PHP</strong>.</li>
+                        <li>Architect news portals, e-commerce platforms, and complex knowledge repositories.</li>
+                        <li>Ensuring high performance, security, and scalability across all systems.</li>
+                    </ul>
+                </div>
             </div>
-            <div class="job">
-                <h4>Junior Software Engineer @ eMythMakers.com</h4>
-                <small>2022 - 2023</small>
+
+            <div class="experience-item">
+                <div class="exp-header">
+                    <div>
+                        <div class="exp-role">Junior Software Engineer</div>
+                        <div class="exp-company">eMythMakers.com</div>
+                    </div>
+                    <div class="exp-date">2022 - 2023 | Kafrul, Dhaka</div>
+                </div>
+                <div class="exp-desc">
+                    <ul>
+                        <li>Contributed to both backend development and frontend implementation of PHP-based web applications.</li>
+                        <li>Developed intuitive admin panels and main website features using <strong>PHP, MySQL, and Bootstrap</strong>.</li>
+                        <li>Handled bug fixes and performance optimization for legacy systems.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div id="skills" class="content-section">
+            <div class="skill-group">
+                <h4>Backend & Core</h4>
+                <div class="skill-tags">
+                    <span class="skill-tag">PHP</span>
+                    <span class="skill-tag">Laravel</span>
+                    <span class="skill-tag">RESTful API</span>
+                    <span class="skill-tag">MVC Frameworks</span>
+                    <span class="skill-tag">MySQL</span>
+                    <span class="skill-tag">Redis Caching</span>
+                </div>
+            </div>
+
+            <div class="skill-group">
+                <h4>Frontend & Styling</h4>
+                <div class="skill-tags">
+                    <span class="skill-tag">JavaScript</span>
+                    <span class="skill-tag">Tailwind CSS</span>
+                    <span class="skill-tag">Bootstrap</span>
+                    <span class="skill-tag">HTML5/CSS3</span>
+                </div>
+            </div>
+
+            <div class="skill-group">
+                <h4>Cloud & Tools</h4>
+                <div class="skill-tags">
+                    <span class="skill-tag">Firebase FCM</span>
+                    <span class="skill-tag">S3 Bucket</span>
+                    <span class="skill-tag">Git/GitHub</span>
+                    <span class="skill-tag">Linux</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="education" class="content-section">
+            <div class="edu-item">
+                <div class="edu-title">Bachelor's Degree in Computer Science & Engineering</div>
+                <div class="edu-school">Eastern University, Dhaka</div>
+                <div class="exp-date">2018 - 2021</div>
+            </div>
+            <div class="edu-item">
+                <div class="edu-title">Diploma in Telecommunication Technology</div>
+                <div class="edu-school">Tangail Polytechnic Institute, Tangail</div>
+                <div class="exp-date">2012 - 2017</div>
             </div>
         </div>
 
         <div id="contact" class="content-section">
-            <p>Ready to collaborate? Reach out via email or GitHub:</p>
-            <a href="mailto:akib.siddiki@gmail.com">akib.siddiki@gmail.com</a> | 
-            <a href="https://github.com/AkibSiddiki" target="_blank">GitHub</a>
+            <div class="experience-item" style="background: white;">
+                <h3>Get in Touch</h3>
+                <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
+                <div style="margin-top: 20px;">
+                    <p><strong><i class="fas fa-phone"></i> Phone:</strong> +8801778974170</p>
+                    <p><strong><i class="fas fa-envelope"></i> Email:</strong> akib.siddiki@gmail.com</p>
+                    <p><strong><i class="fab fa-github"></i> GitHub:</strong> github.com/AkibSiddiki</p>
+                </div>
+            </div>
         </div>
 
         <!-- Footer Input -->
@@ -114,4 +186,5 @@
 
     <script src="script.js"></script>
 </body>
+
 </html>
