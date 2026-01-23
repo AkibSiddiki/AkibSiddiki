@@ -1,37 +1,93 @@
-## Hello, Developers 👨‍💻!!
+# Akib Siddiki Apu | Full Stack PHP/Laravel Developer 👨‍💻
 
 <p align="center">
-  <img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" alt="Flutter Logo" height="30" display="inline-block" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel Logo" height="30" display="inline-block" />
-  <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" alt="MySql Logo" height="30" display="inline-block" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP Logo" height="30" display="inline-block" />
+  <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" alt="MySQL Logo" height="30" display="inline-block" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git Icon" height="30" display="inline-block" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code Icon" height="30" display="inline-block" />
-  <img src="https://developer.android.com/static/distribute/console/images/play-console-blue.png" alt="Play Console Logo" height="30" display="inline-block"/>
 </p>
 
-I'm Akib, a passionate self-taught Flutter and Laravel Web Developer on a mission to create beautiful and functional mobile and web applications.
+## 👋 About Me
 
-🌟 **About Me**
+Hey, I'm **Akib Siddiki Apu**, an experienced Full Stack Developer with a strong background in building **scalable, secure, and high-performance** web applications. I specialize in Laravel, RESTful APIs, and database optimization.
 
-I thrive on turning creative ideas into reality through the power of code. My journey in the world of app development began with a curiosity to explore the possibilities of Flutter, and I've been hooked ever since. The dynamic nature of Flutter and its ability to craft stunning cross-platform applications resonate with my love for elegant solutions. Adding to that, my expertise in Laravel allows me to build robust and scalable web applications.
+📍 **Location:** Dhaka, Bangladesh  
+💼 **Current Role:** Software Engineer at eMythMakers.com  
+📧 **Email:** akib.siddiki@gmail.com  
+📱 **Phone:** +8801778974170
 
-🔧 **Skills**
+A problem solver at heart, I am committed to writing clean, maintainable code and continuously improving system performance to deliver an exceptional user experience. I thrive in fast-paced environments and am always eager to learn and implement cutting-edge technologies.
 
-**Flutter**: My playground and expertise. I'm well-versed in creating responsive and delightful user interfaces that not only look good but also provide a seamless user experience.
+## 💼 Professional Experience
 
-**Dart**: The language that powers my creations. I leverage Dart to write clean, efficient, and maintainable code.
+### Software Engineer | eMythMakers.com
+**2023 - Present | Kafrul, Dhaka**
+- Develop and maintain scalable web applications using **Laravel and PHP**
+- Architect news portals, e-commerce platforms, and complex knowledge repositories
+- Ensuring high performance, security, and scalability across all systems
 
-**Firebase**: Proficient in leveraging Firebase for backend services, including Firestore for real-time databases and Firebase Authentication for secure user management.
+### Junior Software Engineer | eMythMakers.com
+**2022 - 2023 | Kafrul, Dhaka**
+- Contributed to both backend development and frontend implementation of PHP-based web applications
+- Developed intuitive admin panels and main website features using **PHP, MySQL, and Bootstrap**
+- Handled bug fixes and performance optimization for legacy systems
 
-**Laravel**: Skilled in Laravel for crafting modern and secure web applications, with a focus on MVC architecture and RESTful services.
+## 🛠️ Technical Skills
 
-**Problem Solver**: I enjoy tackling challenges head-on. Problem-solving is not just a skill; it's a mindset that I bring to every project.
+### Backend & Core
+- PHP
+- Laravel
+- RESTful API
+- MVC Frameworks
+- MySQL
+- Redis Caching
 
-- 👯 I’m looking to collaborate to make a dart package to publish.
-- 🤔 I’m looking forward to helping new developers to learn Flutter and Laravel.
-- 📫 How to reach me: akib.siddiki@gmail.com, WhatsApp(+8801778974170)
+### Frontend & Styling
+- JavaScript
+- Tailwind CSS
+- Bootstrap
+- HTML5/CSS3
+
+### Cloud & Tools
+- Firebase FCM
+- S3 Bucket
+- Git/GitHub
+- Linux
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Science & Engineering**  
+Eastern University, Dhaka | 2018 - 2021
+
+**Diploma in Telecommunication Technology**  
+Tangail Polytechnic Institute, Tangail | 2012 - 2017
+
+## 🌟 What I Bring
+
+- **Database & Schema Designer:** Expert in designing efficient and scalable database structures
+- **Problem Solver:** Analytical approach to complex technical challenges
+- **Scalable & Secure:** Focus on building robust, production-ready applications
+
+## 🤝 Let's Connect
+
+- 👯 I'm looking to collaborate on Laravel and PHP projects
+- 🤔 I'm looking forward to helping developers build scalable web applications
+- 📫 Reach me at: akib.siddiki@gmail.com or WhatsApp (+8801778974170)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to cook.
+- ⚡ Fun fact: I like to cook
+
+## 📊 GitHub Stats
 
 ![AkibSiddiki's Stats](https://github-readme-stats.vercel.app/api?username=AkibSiddiki&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![AkibSiddiki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkibSiddiki&theme=gotham&hide_border=false)
+
+## 🔗 Social Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akib-siddiki-apu/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkibSiddiki)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akib.siddiki@gmail.com)
+
+---
+
+© 2026 Akib Siddiki Apu. All rights reserved.
