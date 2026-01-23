@@ -5,17 +5,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Akib Siddiki Apu | Full Stack PHP/Laravel Developer</title>
-    <meta name="description" content="Experienced Full Stack PHP/Laravel Developer specializing in scalable and secure web applications.">
-    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="Akib Siddiki Apu is an experienced Full Stack PHP/Laravel Developer in Dhaka, specializing in scalable web apps, RESTful APIs, and MySQL optimization.">
+    <meta name="keywords" content="Akib Siddiki Apu, PHP Developer, Laravel Developer, Full Stack Developer, Bangladesh Developer, Web Developer Dhaka, MySQL Expert">
+    <meta name="author" content="Akib Siddiki Apu">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://github.com/AkibSiddiki">
+    <meta property="og:title" content="Akib Siddiki Apu | Full Stack PHP/Laravel Developer">
+    <meta property="og:description" content="Experienced Full Stack Developer specializing in Laravel, PHP, and high-performance web applications.">
+    <meta property="og:image" content="assets/images/akib-siddiki-apu-full-stack-developer.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Akib Siddiki Apu | Full Stack PHP/Laravel Developer">
+    <meta property="twitter:description" content="Experienced Full Stack Developer specializing in Laravel, PHP, and high-performance web applications.">
+    <meta property="twitter:image" content="assets/images/akib-siddiki-apu-full-stack-developer.png">
+
+    <!-- Semantic & Styling -->
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="canonical" href="https://github.com/AkibSiddiki">
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Akib Siddiki Apu",
+      "jobTitle": "Full Stack PHP/Laravel Developer",
+      "url": "https://github.com/AkibSiddiki",
+      "sameAs": [
+        "https://www.linkedin.com/in/akib-siddiki-apu/",
+        "https://github.com/AkibSiddiki"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dhaka",
+        "addressCountry": "BD"
+      },
+      "alumniOf": "Eastern University, Dhaka"
+    }
+    </script>
 </head>
 
 <body>
-    <div class="portfolio-container">
+    <main class="portfolio-container">
         <!-- Header -->
         <header>
             <div class="profile-img-container">
-                <img src="me.png" alt="Akib Siddiki Apu" class="profile-img">
+                <img src="assets/images/akib-siddiki-apu-full-stack-developer.png" alt="Akib Siddiki Apu - Full Stack PHP/Laravel Developer" class="profile-img">
             </div>
             <div class="profile-info">
                 <h1>Akib Siddiki Apu</h1>
@@ -47,7 +86,7 @@
         </header>
 
         <!-- Navigation -->
-        <div class="nav-buttons">
+        <nav class="nav-buttons" aria-label="Main Navigation">
             <button class="nav-btn active" data-tab="profile">
                 <i class="fas fa-user-tie"></i> Professional Profile
             </button>
@@ -60,21 +99,21 @@
             <button class="nav-btn" data-tab="contact">
                 <i class="fas fa-id-card"></i> Contact & Socials
             </button>
-        </div>
+        </nav>
 
         <!-- Content Sections -->
-        <div id="profile" class="content-section active">
-            <div class="summary-section">
+        <article id="profile" class="content-section active">
+            <section class="summary-section">
                 <p class="bio">
                     Dedicated Full Stack PHP/Laravel Developer with a strong background in building <strong>scalable, secure, and high-performance</strong> web applications. I specialize in crafting RESTful APIs, modern authentication mechanisms, and complex database optimizations.
                 </p>
                 <p>
                     A problem solver at heart, I am committed to writing clean, maintainable code and continuously improving system performance to deliver an exceptional user experience. I thrive in fast-paced environments and am always eager to learn and implement cutting-edge technologies.
                 </p>
-            </div>
+            </section>
 
-            <div class="experience-section" style="margin-top: 30px;">
-                <h3 style="margin-bottom: 20px;">Professional Experience</h3>
+            <section class="experience-section" style="margin-top: 30px;">
+                <h2 style="margin-bottom: 20px;">Professional Experience</h2>
                 <div class="experience-item">
                     <div class="exp-header">
                         <div>
@@ -108,18 +147,18 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </section>
 
             <div class="social-links">
-                <a href="https://github.com/AkibSiddiki" target="_blank" class="social-link"><i class="fab fa-github"></i></a>
-                <a href="https://www.linkedin.com/in/akib-siddiki-apu/" target="_blank" class="social-link"><i class="fab fa-linkedin"></i></a>
-                <a href="mailto:akib.siddiki@gmail.com" class="social-link"><i class="fas fa-envelope"></i></a>
+                <a href="https://github.com/AkibSiddiki" target="_blank" class="social-link" aria-label="GitHub Profile"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/akib-siddiki-apu/" target="_blank" class="social-link" aria-label="LinkedIn Profile"><i class="fab fa-linkedin"></i></a>
+                <a href="mailto:akib.siddiki@gmail.com" class="social-link" aria-label="Email Akib"><i class="fas fa-envelope"></i></a>
             </div>
-        </div>
+        </article>
 
-        <div id="skills" class="content-section">
-            <div class="skill-group">
-                <h4>Backend & Core</h4>
+        <article id="skills" class="content-section">
+            <section class="skill-group">
+                <h3>Backend & Core</h3>
                 <div class="skill-tags">
                     <span class="skill-tag">PHP</span>
                     <span class="skill-tag">Laravel</span>
@@ -128,58 +167,62 @@
                     <span class="skill-tag">MySQL</span>
                     <span class="skill-tag">Redis Caching</span>
                 </div>
-            </div>
+            </section>
 
-            <div class="skill-group">
-                <h4>Frontend & Styling</h4>
+            <section class="skill-group">
+                <h3>Frontend & Styling</h3>
                 <div class="skill-tags">
                     <span class="skill-tag">JavaScript</span>
                     <span class="skill-tag">Tailwind CSS</span>
                     <span class="skill-tag">Bootstrap</span>
                     <span class="skill-tag">HTML5/CSS3</span>
                 </div>
-            </div>
+            </section>
 
-            <div class="skill-group">
-                <h4>Cloud & Tools</h4>
+            <section class="skill-group">
+                <h3>Cloud & Tools</h3>
                 <div class="skill-tags">
                     <span class="skill-tag">Firebase FCM</span>
                     <span class="skill-tag">S3 Bucket</span>
                     <span class="skill-tag">Git/GitHub</span>
                     <span class="skill-tag">Linux</span>
                 </div>
-            </div>
-        </div>
+            </section>
+        </article>
 
-        <div id="education" class="content-section">
-            <div class="edu-item">
-                <div class="edu-title">Bachelor's Degree in Computer Science & Engineering</div>
-                <div class="edu-school">Eastern University, Dhaka</div>
-                <div class="exp-date">2018 - 2021</div>
-            </div>
-            <div class="edu-item">
-                <div class="edu-title">Diploma in Telecommunication Technology</div>
-                <div class="edu-school">Tangail Polytechnic Institute, Tangail</div>
-                <div class="exp-date">2012 - 2017</div>
-            </div>
-        </div>
+        <article id="education" class="content-section">
+            <section class="edu-item">
+                <h3 class="edu-title">Bachelor's Degree in Computer Science & Engineering</h3>
+                <p class="edu-school">Eastern University, Dhaka</p>
+                <p class="exp-date">2018 - 2021</p>
+            </section>
+            <section class="edu-item">
+                <h3 class="edu-title">Diploma in Telecommunication Technology</h3>
+                <p class="edu-school">Tangail Polytechnic Institute, Tangail</p>
+                <p class="exp-date">2012 - 2017</p>
+            </section>
+        </article>
 
-        <div id="contact" class="content-section">
-            <div class="experience-item" style="background: white;">
-                <h3>Get in Touch</h3>
+        <article id="contact" class="content-section">
+            <section class="experience-item" style="background: white;">
+                <h2>Get in Touch</h2>
                 <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
-                <div style="margin-top: 20px;">
+                <address style="margin-top: 20px; font-style: normal;">
                     <p><strong><i class="fas fa-phone"></i> Phone:</strong> +8801778974170</p>
-                    <p><strong><i class="fas fa-envelope"></i> Email:</strong> akib.siddiki@gmail.com</p>
+                    <p><strong><i class="fas fa-envelope"></i> Email:</strong> <a href="mailto:akib.siddiki@gmail.com">akib.siddiki@gmail.com</a></p>
                     <p><strong><i class="fab fa-linkedin"></i> LinkedIn:</strong> <a href="https://www.linkedin.com/in/akib-siddiki-apu/" target="_blank">linkedin.com/in/akib-siddiki-apu</a></p>
                     <p><strong><i class="fab fa-github"></i> GitHub:</strong> <a href="https://github.com/AkibSiddiki" target="_blank">github.com/AkibSiddiki</a></p>
-                </div>
-            </div>
-        </div>
+                </address>
+            </section>
+        </article>
 
-    </div>
+    </main>
 
-    <script src="script.js"></script>
+    <footer style="text-align: center; padding: 20px; color: var(--text-muted); font-size: 0.9rem;">
+        <p>&copy; 2026 Akib Siddiki Apu. All rights reserved.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
 </body>
 
 </html>
