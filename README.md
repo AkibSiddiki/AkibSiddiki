@@ -25,24 +25,13 @@ I thrive on turning creative ideas into reality through the power of code. My jo
 
 **Laravel**: Skilled in Laravel for crafting modern and secure web applications, with a focus on MVC architecture and RESTful services.
 
-**UI/UX Design**: Beyond code, I have a keen eye for design principles. I believe that an intuitive and visually appealing UI is as crucial as the functionality itself.
-
 **Problem Solver**: I enjoy tackling challenges head-on. Problem-solving is not just a skill; it's a mindset that I bring to every project.
 
-
-
-- 🌱 I’m currently learning vue.js
 - 👯 I’m looking to collaborate to make a dart package to publish.
 - 🤔 I’m looking forward to helping new developers to learn Flutter and Laravel.
 - 📫 How to reach me: akib.siddiki@gmail.com, WhatsApp(+8801778974170)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to cook.
 
-
 ![AkibSiddiki's Stats](https://github-readme-stats.vercel.app/api?username=AkibSiddiki&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![AkibSiddiki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkibSiddiki&theme=gotham&hide_border=false)
-
-  
-
-
-
