@@ -27,10 +27,9 @@
                 </div>
 
                 <div class="stats">
-                    <div class="stat-item">Laravel</div>
-                    <div class="stat-item">PHP</div>
-                    <div class="stat-item">MySQL</div>
-                    <div class="stat-item">Tailwind</div>
+                    <div class="stat-item">Database & Schema Designer</div>
+                    <div class="stat-item">Problem Solver</div>
+                    <div class="stat-item">Scalable & Secure</div>
                 </div>
 
                 <p class="bio">
@@ -41,20 +40,17 @@
                     <span class="pill">Laravel</span>
                     <span class="pill">MySQL</span>
                     <span class="pill">JS</span>
-                    <span class="pill">Git</span>
-                    <span class="pill">Redis</span>
+                    <span class="pill">RESTful API</span>
                     <span class="pill">Firebase</span>
+                    <span class="pill">Git</span>
                 </div>
             </div>
         </header>
 
         <!-- Navigation -->
         <div class="nav-buttons">
-            <button class="nav-btn active" data-tab="me">
-                <i class="fas fa-user-tie"></i> Executive Summary
-            </button>
-            <button class="nav-btn" data-tab="experience">
-                <i class="fas fa-laptop-code"></i> Professional Experience
+            <button class="nav-btn active" data-tab="profile">
+                <i class="fas fa-user-tie"></i> Professional Profile
             </button>
             <button class="nav-btn" data-tab="skills">
                 <i class="fas fa-layer-group"></i> Technical Skills
@@ -68,53 +64,57 @@
         </div>
 
         <!-- Content Sections -->
-        <div id="me" class="content-section active">
-            <p class="bio">
-                Dedicated Full Stack PHP/Laravel Developer with a strong background in building <strong>scalable, secure, and high-performance</strong> web applications. I specialize in crafting RESTful APIs, modern authentication mechanisms, and complex database optimizations.
-            </p>
-            <p>
-                A problem solver at heart, I am committed to writing clean, maintainable code and continuously improving system performance to deliver an exceptional user experience. I thrive in fast-paced environments and am always eager to learn and implement cutting-edge technologies.
-            </p>
+        <div id="profile" class="content-section active">
+            <div class="summary-section">
+                <p class="bio">
+                    Dedicated Full Stack PHP/Laravel Developer with a strong background in building <strong>scalable, secure, and high-performance</strong> web applications. I specialize in crafting RESTful APIs, modern authentication mechanisms, and complex database optimizations.
+                </p>
+                <p>
+                    A problem solver at heart, I am committed to writing clean, maintainable code and continuously improving system performance to deliver an exceptional user experience. I thrive in fast-paced environments and am always eager to learn and implement cutting-edge technologies.
+                </p>
+            </div>
+
+            <div class="experience-section" style="margin-top: 30px;">
+                <h3 style="margin-bottom: 20px;">Professional Experience</h3>
+                <div class="experience-item">
+                    <div class="exp-header">
+                        <div>
+                            <div class="exp-role">Software Engineer</div>
+                            <div class="exp-company">eMythMakers.com</div>
+                        </div>
+                        <div class="exp-date">2023 - Present | Kafrul, Dhaka</div>
+                    </div>
+                    <div class="exp-desc">
+                        <ul>
+                            <li>Develop and maintain scalable web applications using <strong>Laravel and PHP</strong>.</li>
+                            <li>Architect news portals, e-commerce platforms, and complex knowledge repositories.</li>
+                            <li>Ensuring high performance, security, and scalability across all systems.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="experience-item">
+                    <div class="exp-header">
+                        <div>
+                            <div class="exp-role">Junior Software Engineer</div>
+                            <div class="exp-company">eMythMakers.com</div>
+                        </div>
+                        <div class="exp-date">2022 - 2023 | Kafrul, Dhaka</div>
+                    </div>
+                    <div class="exp-desc">
+                        <ul>
+                            <li>Contributed to both backend development and frontend implementation of PHP-based web applications.</li>
+                            <li>Developed intuitive admin panels and main website features using <strong>PHP, MySQL, and Bootstrap</strong>.</li>
+                            <li>Handled bug fixes and performance optimization for legacy systems.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
             <div class="social-links">
                 <a href="https://github.com/AkibSiddiki" target="_blank" class="social-link"><i class="fab fa-github"></i></a>
-                <a href="https://linkedin.com" target="_blank" class="social-link"><i class="fab fa-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/akib-siddiki-apu/" target="_blank" class="social-link"><i class="fab fa-linkedin"></i></a>
                 <a href="mailto:akib.siddiki@gmail.com" class="social-link"><i class="fas fa-envelope"></i></a>
-            </div>
-        </div>
-
-        <div id="experience" class="content-section">
-            <div class="experience-item">
-                <div class="exp-header">
-                    <div>
-                        <div class="exp-role">Software Engineer</div>
-                        <div class="exp-company">eMythMakers.com</div>
-                    </div>
-                    <div class="exp-date">2023 - Present | Kafrul, Dhaka</div>
-                </div>
-                <div class="exp-desc">
-                    <ul>
-                        <li>Develop and maintain scalable web applications using <strong>Laravel and PHP</strong>.</li>
-                        <li>Architect news portals, e-commerce platforms, and complex knowledge repositories.</li>
-                        <li>Ensuring high performance, security, and scalability across all systems.</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div class="experience-item">
-                <div class="exp-header">
-                    <div>
-                        <div class="exp-role">Junior Software Engineer</div>
-                        <div class="exp-company">eMythMakers.com</div>
-                    </div>
-                    <div class="exp-date">2022 - 2023 | Kafrul, Dhaka</div>
-                </div>
-                <div class="exp-desc">
-                    <ul>
-                        <li>Contributed to both backend development and frontend implementation of PHP-based web applications.</li>
-                        <li>Developed intuitive admin panels and main website features using <strong>PHP, MySQL, and Bootstrap</strong>.</li>
-                        <li>Handled bug fixes and performance optimization for legacy systems.</li>
-                    </ul>
-                </div>
             </div>
         </div>
 
@@ -172,16 +172,12 @@
                 <div style="margin-top: 20px;">
                     <p><strong><i class="fas fa-phone"></i> Phone:</strong> +8801778974170</p>
                     <p><strong><i class="fas fa-envelope"></i> Email:</strong> akib.siddiki@gmail.com</p>
-                    <p><strong><i class="fab fa-github"></i> GitHub:</strong> github.com/AkibSiddiki</p>
+                    <p><strong><i class="fab fa-linkedin"></i> LinkedIn:</strong> <a href="https://www.linkedin.com/in/akib-siddiki-apu/" target="_blank">linkedin.com/in/akib-siddiki-apu</a></p>
+                    <p><strong><i class="fab fa-github"></i> GitHub:</strong> <a href="https://github.com/AkibSiddiki" target="_blank">github.com/AkibSiddiki</a></p>
                 </div>
             </div>
         </div>
 
-        <!-- Footer Input -->
-        <div class="footer-input">
-            <input type="text" placeholder="Ask me anything...">
-            <button class="submit-btn"><i class="fas fa-arrow-up"></i></button>
-        </div>
     </div>
 
     <script src="script.js"></script>

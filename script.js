@@ -20,20 +20,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Simple Input Handler
-    const askInput = document.querySelector('.footer-input input');
-    const submitBtn = document.querySelector('.submit-btn');
-
-    const handleAsk = () => {
-        const question = askInput.value.trim();
-        if (question) {
-            alert(`You asked: "${question}"\n\n(This is a demonstration of the UI. In a real application, this could connect to an AI service or FAQ system.)`);
-            askInput.value = '';
-        }
-    };
-
-    submitBtn.addEventListener('click', handleAsk);
-    askInput.addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') handleAsk();
-    });
 });
