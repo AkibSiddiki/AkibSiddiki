@@ -15,7 +15,7 @@
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     background-color: var(--bg-color);
     background-image: radial-gradient(rgba(0, 0, 0, 0.05) 1px, transparent 1px);
     background-size: 20px 20px;
@@ -34,8 +34,89 @@ footer {
     width: 100%;
 }
 
+.space-mono-regular {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.space-mono-bold {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.space-mono-regular-italic {
+    font-family: "Space Mono", monospace;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.space-mono-bold-italic {
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+.space-grotesk-regular {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.space-grotesk-semibold {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.space-grotesk-bold {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.space-grotesk-extrabold {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.space-grotesk-regular-italic {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.space-grotesk-semibold-italic {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.space-grotesk-bold-italic {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.space-grotesk-extrabold-italic {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: italic;
+}
+
 .portfolio-container {
-    max-width: 1040px;
+    max-width: 920px;
     width: 100%;
     background: white;
     padding: 40px;
@@ -49,6 +130,10 @@ header {
     gap: 40px;
     margin-bottom: 40px;
     align-items: center;
+}
+
+.black-and-white {
+    filter: grayscale(100%);
 }
 
 .profile-img-container {
@@ -72,10 +157,12 @@ header {
 }
 
 .profile-info h1 {
+    font-family: 'Space Grotesk', sans-serif;
     font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 8px;
     color: #111;
+    letter-spacing: -0.5px;
 }
 
 .meta-info {
@@ -88,8 +175,10 @@ header {
 
 .stats {
     display: flex;
+    flex-wrap: wrap;
     gap: 15px;
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .stat-item {
@@ -98,12 +187,16 @@ header {
     border-radius: 30px;
     font-size: 0.85rem;
     font-weight: 600;
+    font-family: 'Space Mono', monospace;
+    letter-spacing: -0.3px;
 }
 
 .bio {
     font-size: 1.1rem;
     color: #444;
     margin-bottom: 30px;
+    font-family: 'Space Grotesk', sans-serif;
+    line-height: 1.7;
 }
 
 /* Tags / Pills */
@@ -114,12 +207,24 @@ header {
 }
 
 .pill {
-    background: var(--primary);
-    color: white;
+    background: rgba(0, 123, 255, 0.15);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(0, 123, 255, 0.3);
+    color: var(--primary);
     padding: 5px 15px;
     border-radius: 20px;
     font-size: 0.85rem;
     font-weight: 500;
+    font-family: 'Space Mono', monospace;
+    transition: all 0.3s ease;
+}
+
+.pill:hover {
+    background: rgba(0, 123, 255, 0.25);
+    border-color: rgba(0, 123, 255, 0.5);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.2);
 }
 
 /* Navigation Buttons */
@@ -128,33 +233,40 @@ header {
     gap: 12px;
     margin-bottom: 30px;
     overflow-x: auto;
-    padding-bottom: 10px;
+    padding: 10px 0;
 }
 
 .nav-btn {
     display: flex;
     align-items: center;
     gap: 8px;
-    background: white;
-    border: 1px solid var(--glass-border);
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(0, 0, 0, 0.08);
     padding: 10px 20px;
     border-radius: 12px;
     cursor: pointer;
     font-size: 0.95rem;
     font-weight: 500;
-    transition: all 0.2s ease;
+    font-family: 'Space Grotesk', sans-serif;
+    transition: all 0.3s ease;
     white-space: nowrap;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
 .nav-btn:hover {
-    background: #f8f9fa;
-    border-color: #adb5bd;
+    background: rgba(248, 249, 250, 0.8);
+    border-color: rgba(0, 123, 255, 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.15);
 }
 
 .nav-btn.active {
-    background: #f8f9fa;
-    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05);
-    border-color: #adb5bd;
+    background: rgba(0, 123, 255, 0.12);
+    border-color: rgba(0, 123, 255, 0.4);
+    color: var(--primary);
+    box-shadow: 0 2px 8px rgba(0, 123, 255, 0.2), inset 0 1px 3px rgba(0, 123, 255, 0.1);
 }
 
 /* Dynamic Content Areas */
@@ -205,6 +317,7 @@ header {
     border-radius: 8px;
     font-size: 0.9rem;
     font-weight: 500;
+    font-family: 'Space Mono', monospace;
     color: #495057;
     transition: all 0.2s;
 }
@@ -240,12 +353,15 @@ header {
 .exp-role {
     font-size: 1.2rem;
     font-weight: 700;
+    font-family: 'Space Grotesk', sans-serif;
     color: #111;
+    letter-spacing: -0.3px;
 }
 
 .exp-company {
     font-size: 1rem;
     font-weight: 600;
+    font-family: 'Space Mono', monospace;
     color: var(--primary);
 }
 
@@ -279,6 +395,8 @@ header {
 .edu-title {
     font-weight: 700;
     font-size: 1.1rem;
+    font-family: 'Space Grotesk', sans-serif;
+    letter-spacing: -0.3px;
 }
 
 .edu-school {
@@ -301,6 +419,96 @@ header {
 
 .social-link:hover {
     color: var(--primary);
+}
+
+/* Contact Section */
+.contact-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.contact-header h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-bottom: 12px;
+    color: #111;
+    letter-spacing: -0.5px;
+}
+
+.contact-header p {
+    font-size: 1.05rem;
+    color: var(--text-muted);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.contact-card {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 24px;
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(0, 123, 255, 0.15);
+    border-radius: 16px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.contact-card:hover {
+    transform: translateY(-4px);
+    background: rgba(255, 255, 255, 0.8);
+    border-color: rgba(0, 123, 255, 0.3);
+    box-shadow: 0 8px 24px rgba(0, 123, 255, 0.15);
+}
+
+.contact-icon {
+    width: 56px;
+    height: 56px;
+    min-width: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, rgba(0, 123, 255, 0.1), rgba(0, 123, 255, 0.2));
+    border: 1px solid rgba(0, 123, 255, 0.3);
+    border-radius: 12px;
+    font-size: 1.5rem;
+    color: var(--primary);
+    transition: all 0.3s ease;
+}
+
+.contact-card:hover .contact-icon {
+    background: linear-gradient(135deg, rgba(0, 123, 255, 0.2), rgba(0, 123, 255, 0.3));
+    transform: scale(1.1);
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.2);
+}
+
+.contact-details h3 {
+    font-size: 0.9rem;
+    font-weight: 600;
+    font-family: 'Space Mono', monospace;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-muted);
+    margin-bottom: 4px;
+}
+
+.contact-details p {
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: 'Space Grotesk', sans-serif;
+    color: #111;
+    margin: 0;
 }
 
 /* Responsive Design */
@@ -451,6 +659,43 @@ header {
     h3 {
         font-size: 1.1rem;
     }
+
+    .contact-header {
+        margin-bottom: 30px;
+    }
+
+    .contact-header h2 {
+        font-size: 1.5rem;
+    }
+
+    .contact-header p {
+        font-size: 0.95rem;
+    }
+
+    .contact-grid {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+
+    .contact-card {
+        padding: 20px;
+        gap: 16px;
+    }
+
+    .contact-icon {
+        width: 48px;
+        height: 48px;
+        min-width: 48px;
+        font-size: 1.3rem;
+    }
+
+    .contact-details h3 {
+        font-size: 0.8rem;
+    }
+
+    .contact-details p {
+        font-size: 0.9rem;
+    }
 }
 
 /* Small Devices (Phones in landscape, small tablets, 481px - 768px) */
@@ -534,6 +779,22 @@ header {
     .social-links {
         justify-content: center;
     }
+
+    .contact-grid {
+        grid-template-columns: 1fr;
+        gap: 18px;
+    }
+
+    .contact-card {
+        padding: 22px;
+    }
+
+    .contact-icon {
+        width: 52px;
+        height: 52px;
+        min-width: 52px;
+        font-size: 1.4rem;
+    }
 }
 
 /* Medium Devices (Tablets, small laptops, 769px - 1024px) */
@@ -563,6 +824,10 @@ header {
     .stats {
         flex-wrap: wrap;
         gap: 12px;
+    }
+
+    .contact-grid {
+        gap: 18px;
     }
 }
 

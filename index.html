@@ -23,6 +23,9 @@
     <meta property="twitter:image" content="assets/images/akib-siddiki-apu-full-stack-developer-3.png">
 
     <!-- Semantic & Styling -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="canonical" href="https://github.com/AkibSiddiki">
@@ -54,7 +57,7 @@
         <!-- Header -->
         <header>
             <div class="profile-img-container">
-                <img src="assets/images/akib-siddiki-apu-full-stack-developer-3.png" alt="Akib Siddiki Apu - Full Stack PHP/Laravel Developer" class="profile-img">
+                <img src="assets/images/akib-siddiki-apu-full-stack-developer-3.png" alt="Akib Siddiki Apu - Full Stack PHP/Laravel Developer" class="profile-img black-and-white">
             </div>
             <div class="profile-info">
                 <h1>Akib Siddiki Apu</h1>
@@ -65,13 +68,13 @@
                 </div>
 
                 <div class="stats">
-                    <div class="stat-item">Database & Schema Designer</div>
-                    <div class="stat-item">Problem Solver</div>
-                    <div class="stat-item">Scalable & Secure</div>
+                    <div class="stat-item">Product-Driven Software Engineer</div>
+                    <div class="stat-item">Analytical Problem Solver</div>
+                    <div class="stat-item">Database Architecture & Schema Design</div>
                 </div>
 
                 <p class="bio">
-                    Hey, I'm Akib 👋, an experienced Full Stack Developer with a strong background in building scalable, secure, and high-performance applications. I specialize in Laravel, RESTful APIs, and database optimization.
+                    Hey, I'm Akib, an experienced Full Stack Developer with a strong background in building scalable, secure, and high-performance applications. I specialize in Laravel, RESTful APIs, and database optimization.
                 </p>
 
                 <div class="pills">
@@ -107,7 +110,7 @@
                 <p class="bio">
                     Dedicated Full Stack PHP/Laravel Developer with a strong background in building <strong>scalable, secure, and high-performance</strong> web applications. I specialize in crafting RESTful APIs, modern authentication mechanisms, and complex database optimizations.
                 </p>
-                <p>
+                <p class="bio">
                     A problem solver at heart, I am committed to writing clean, maintainable code and continuously improving system performance to deliver an exceptional user experience. I thrive in fast-paced environments and am always eager to learn and implement cutting-edge technologies.
                 </p>
             </section>
@@ -120,7 +123,7 @@
                             <div class="exp-role">Software Engineer</div>
                             <div class="exp-company">eMythMakers.com</div>
                         </div>
-                        <div class="exp-date">2023 - Present | Kafrul, Dhaka</div>
+                        <div class="exp-date">2023 - Present | Dhaka</div>
                     </div>
                     <div class="exp-desc">
                         <ul>
@@ -137,7 +140,7 @@
                             <div class="exp-role">Junior Software Engineer</div>
                             <div class="exp-company">eMythMakers.com</div>
                         </div>
-                        <div class="exp-date">2022 - 2023 | Kafrul, Dhaka</div>
+                        <div class="exp-date">2022 - 2023 | Dhaka</div>
                     </div>
                     <div class="exp-desc">
                         <ul>
@@ -204,16 +207,52 @@
         </article>
 
         <article id="contact" class="content-section">
-            <section class="experience-item" style="background: white;">
+            <div class="contact-header">
                 <h2>Get in Touch</h2>
                 <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
-                <address style="margin-top: 20px; font-style: normal;">
-                    <p><strong><i class="fas fa-phone"></i> Phone:</strong> +8801778974170</p>
-                    <p><strong><i class="fas fa-envelope"></i> Email:</strong> <a href="mailto:akib.siddiki@gmail.com">akib.siddiki@gmail.com</a></p>
-                    <p><strong><i class="fab fa-linkedin"></i> LinkedIn:</strong> <a href="https://www.linkedin.com/in/akib-siddiki-apu/" target="_blank">linkedin.com/in/akib-siddiki-apu</a></p>
-                    <p><strong><i class="fab fa-github"></i> GitHub:</strong> <a href="https://github.com/AkibSiddiki" target="_blank">github.com/AkibSiddiki</a></p>
-                </address>
-            </section>
+            </div>
+
+            <div class="contact-grid">
+                <a href="tel:+8801778974170" class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fa-brands fa-whatsapp"></i>
+                    </div>
+                    <div class="contact-details">
+                        <h3>WhatsApp</h3>
+                        <p>+880 1778 974170</p>
+                    </div>
+                </a>
+
+                <a href="mailto:akib.siddiki@gmail.com" class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <div class="contact-details">
+                        <h3>Email</h3>
+                        <p>akib.siddiki@gmail.com</p>
+                    </div>
+                </a>
+
+                <a href="https://www.linkedin.com/in/akib-siddiki-apu/" target="_blank" class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fab fa-linkedin"></i>
+                    </div>
+                    <div class="contact-details">
+                        <h3>LinkedIn</h3>
+                        <p>akib-siddiki-apu</p>
+                    </div>
+                </a>
+
+                <a href="https://github.com/AkibSiddiki" target="_blank" class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fab fa-github"></i>
+                    </div>
+                    <div class="contact-details">
+                        <h3>GitHub</h3>
+                        <p>AkibSiddiki</p>
+                    </div>
+                </a>
+            </div>
         </article>
 
     </main>
