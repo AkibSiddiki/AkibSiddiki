@@ -132,9 +132,14 @@ header {
     align-items: center;
 }
 
-.black-and-white {
+/* .black-and-white {
     filter: grayscale(100%);
+    transition: filter 1s ease;
 }
+
+.black-and-white:hover {
+    filter: grayscale(0%);
+} */
 
 .profile-img-container {
     flex-shrink: 0;
